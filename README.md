@@ -36,7 +36,7 @@ Analyze Walmart’s historical retail data to identify **seasonal demand pattern
 ---
 
 ### 📦 Deliverables  
-- 📓 [**Jupyter Notebook**](https://github.com/jotiharesh/walmart-retail-sales-forecasting/tree/main/Visuals)  
+- 📓 [**Jupyter Notebook**](https://github.com/jotiharesh/walmart-retail-sales-forecasting/blob/main/Walmart_Sales_Forecasting.ipynb)  
 - 📘 [**Full PDF Report**](https://github.com/jotiharesh/walmart-retail-sales-forecasting/blob/main/Walmart_Sales_Forecasting_Case_Study.pdf)  
 - 🖼️ Visuals available in the [`/visuals`](https://github.com/jotiharesh/walmart-retail-sales-forecasting/tree/main/Visuals) directory  
 
